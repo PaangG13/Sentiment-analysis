@@ -1,0 +1,1 @@
+运行 run_Bert_model.py即可。
