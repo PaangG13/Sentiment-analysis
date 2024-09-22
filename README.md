@@ -40,8 +40,12 @@
 </div>
 	
 
-
-
 <p align="center">
   Table Result of Test Set
 </p>
+
+<div align="center">
+  <img src="./Sentiment analysis/demo1.png" height="250">
+</div>
+
+
